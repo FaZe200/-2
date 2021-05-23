@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <title>Vilayat</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+           
+            <img src="https://www.iguides.ru/upload/medialibrary/5d9/5d9bc869d086d4ceee867b3afbb3a4c7.png"/>
+            <a class="link-nav" href="https://www.apple.com/ru/iphone-12/?afid=p238%7CsBf7lGQI4-dc_mtid_209259jv42696_pcrid_518106789963_pgrid_109243141617_&cid=wwa-ru-kwgo-iphone-slid--productid----Avail-">IPhone 12</a>
+        </header>
+        <nav>
+            <a class="nav-link" href="">iPad</a>
+            <a class="nav-link" href="">iMac</a>
+            <a class="nav-link" href="">Apple watch</a>
+        </nav>
+        <main>
+            <h1>Apple</h1>
+            <section class="info">
+                <article>
+                    <h2>iPad Pro</h2>
+                    <img src="https://www.apple.com/v/ipad-pro/af/images/overview/experience/intro_summary_static__epib5tclp926_large.png" width="400px" height="400px"/>
+                    <p>От 77 990 pyб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>Watch series 6</h2>
+                    <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTPL2ref_VW_34FR+watch-44-alum-spacegray-nc-6s_VW_34FR_WF_CO_GEO_RU?wid=750&hei=712&trim=1,0&fmt=p-jpg&qlt=95&.v=1611165195000,1601923227000" width="400px" height="400px"/>
+                    <p>От 36 990.руб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>AirPods Max</h2>
+                    <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-hero-select-202011_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=80&.v=1603842301000" width="400px" height="300px"/>
+                    <p>Стоимость:62 990.руб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>MacBook Pro</h2>
+                    <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-pro-13-og-202011?wid=600&hei=315&fmt=jpeg&qlt=95&.v=1604347427000" width="400px" height="300px"/>
+                    <p>От 234 990 pyб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>AirTag</h2>
+                    <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airtag-double-select-202104_FMT_WHH?wid=2000&hei=2000&fmt=jpeg&qlt=80&.v=1617761672000" width="400px" height="400px"/>
+                    <p>От 2990 pyб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>AirPods Pro</h2>
+                    <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWP22?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1591634795000" width="400px" height="400px"/>
+                    <p>Стоимость:24 990. pyб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                <h2>iMac
+Знакомьтесь.</h2>
+                    <img src="https://www.iguides.ru/upload/fastarticle/b85/b85c2686a2bedc82f97cc7d68a6895f3.jpg" width="400px" height="400px"/>
+                    <p>От 129 990 pyб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                <h2>Apple TV 4K</h2>
+                    <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/apple-tv-4k-hero-select-202104_FMT_WHH?wid=940&hei=1112&fmt=p-jpg&qlt=80&.v=1617137945000" width="400px" height="400px"/>
+                    <p>От 16 990 pyб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+            </section>
+            <img src="https://habrastorage.org/webt/ly/-d/kb/ly-dkbdouyl_o9x-st_e84g68_s.jpeg" width="910" height="240"/>
+        </main>
+        <footer>
+            <div class="e">
+            <a href=""><img src="https://mars.algoritmika.org/uploads/2021/02/icon-set-1142000_1280%201_0_1613586391.png" width="80px" height="80px"></a>
+            <a href=""><img src="https://mars.algoritmika.org/uploads/2021/02/Group%201_0_1613586391.png" width="80px" height="80px"></a>
+            <a href=""><img src="https://mars.algoritmika.org/uploads/2021/02/instagram-3288419_1280%201_0_1613586391.png" width="80px" height="80px"></a>
+            <p><b>Напиши — получи<br/> промокод на скидку в размере 1.000 руб. бесплатно!</b></p>
+            </div> 
+        </footer>
+    </body>
+</html>
