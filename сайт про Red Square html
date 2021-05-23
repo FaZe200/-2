@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Vilayat</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+           
+            <img src="https://playfrag.ru/upload/resize_cache/iblock/05b/780_780_1/656f687309d017f0be15412c92432df2.png"/>
+            <a class="button" href="https://cdnimg.rg.ru/img/content/195/33/14/steam1000_d_850.jpg">Оф.сайт</a>
+        </header>
+        <nav>
+            <a class="nav-link" href="">Игровые мыши</a>
+            <a class="nav-link" href="">Клавиатуры Red Square</a>
+            <a class="nav-link" href="">Возврат товара</a>
+        </nav>
+        <main>
+            <h1>Игровая техника</h1>
+            <section class="info">
+                <article>
+                    <h2>Игровая клавиатура Red Square Keyrox Classic(RSQ-20019)</h2>
+                    <img src="https://img.mvideo.ru/Pdb/50141064b.jpg" width="400px" height="400px"/>
+                    <p>Цена:5.690 руб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>Игровая мышь Red Square Airborne (RSQ-10018)</h2>
+                    <img src="https://img.mvideo.ru/Pdb/50154900b.jpg" width="400px" height="400px"/>
+                    <p>Цена: 1690 руб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>Игровые наушники Red Square Stone King (RSQ-30003)</h2>
+                    <img src="https://img.mvideo.ru/Pdb/50046723b.jpg" width="400px" height="300px"/>
+                    <p>Цена:2.290 руб.</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+                <article>
+                    <h2>Игровой коврик Red Square Mouse Mat XXL (RSQ-40009)</h2>
+                    <img src="https://img.mvideo.ru/Pdb/50049941b.jpg" width="400px" height="300px"/>
+                    <p>Цена:1.290 руб</p>
+                    <a class="article-but" href="">Купить</a>
+                </article>
+            </section>
+            <img src="http://sun9-68.userapi.com/w9Sq1dhmjklyIz6UY5Rar-QVMTtTqUvEP7x6GA/VtNUduLGuwQ.jpg" width="910" height="240"/>
+        </main>
+        <footer>
+            <div class="e">
+            <a href=""><img src="https://mars.algoritmika.org/uploads/2021/02/icon-set-1142000_1280%201_0_1613586391.png" width="80px" height="80px"></a>
+            <a href=""><img src="https://mars.algoritmika.org/uploads/2021/02/Group%201_0_1613586391.png" width="80px" height="80px"></a>
+            <a href=""><img src="https://mars.algoritmika.org/uploads/2021/02/instagram-3288419_1280%201_0_1613586391.png" width="80px" height="80px"></a>
+            <p><b>Напиши — получи<br/> промокод на скидку в размере 1.000 руб. бесплатно!</b></p>
+            </div> 
+        </footer>
+    </body>
+</html>
